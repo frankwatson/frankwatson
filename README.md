@@ -74,10 +74,3 @@ Astro                    3 repos             ██░░░░░░░░░�
 
 
  Last Updated on 27/01/2026 09:22:11 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:SHOW_COMMIT-->
-<!--END_SECTION:SHOW_COMMIT-->
-
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
